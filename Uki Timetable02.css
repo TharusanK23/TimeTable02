@@ -1,0 +1,131 @@
+
+button {
+  float: right;
+}
+
+
+h1 {
+  font-family: Georgia, serif;
+  text-align: center;
+
+}
+
+table,td, th {
+  border: 1px solid #2F2F2F;
+  border-collapse: collapse;
+  font-size: 14px;
+  font-family: Georgia, serif;
+}
+
+
+
+tr.a {
+  background-color:#007DD0;
+  height: 40px;
+}
+tr.a th.a {
+  width: 10px;
+}
+tr.a th.b {
+  width: 165px;
+}
+tr.a th.c {
+  width: 100px;
+}
+tr.a th.d {
+  width: 80px;
+}
+tr.a th.e {
+  width: 80px;
+}
+tr.a th.f {
+  width: 100px;
+}
+
+
+tr.b td.a {
+  background-color:#5A84C1;
+  height: 22px;
+}
+tr.b td.b {
+  background-color:#83C9D4;
+}
+tr.b td.c {
+  background-color:yellow;
+}
+
+
+tr.c td.a {
+  background-color:#5A84C1;
+  height: 22px;
+}
+tr.c td.b {
+background-color:#83C9D4;
+}
+tr.c td.c {
+  background-color:#DE6873;
+}
+
+
+tr.d{
+  height: 40px;
+}
+tr.d td.a {;
+  background-color:#5A84C1;
+}
+tr.d td.b {
+  background-color:#8D6BA6;
+}
+tr.d td.c {
+  background-color:#83C9D4;
+}
+
+
+tr.e td.a {
+  background-color:#5A84C1;
+  height: 22px;
+}
+tr.e th.b {
+  background-color:#08C321;
+  text-align: center;
+}
+
+
+tr.f td.a {
+  background-color:#5A84C1;
+  height: 22px;
+}
+tr.f td.b {
+  background-color:#8D6BA6;
+}
+
+
+tr.g td.a {
+  height: 40px;
+  background-color:#5A84C1;
+}
+tr.g td.b {
+  background-color:#8D6BA6;
+}
+
+
+tr.h td.a {
+  background-color:#5A84C1;
+  height: 22px;
+}
+tr.h th.b {
+  background-color:#08C321;
+  text-align: center;
+}
+
+
+tr.i td.a {
+  background-color:#5A84C1;
+  height: 22px;
+}
+tr.i td.b {
+  background-color:#DFA60A;
+}
+tr.i td.c {
+  background-color:#FF0D0D;
+}
